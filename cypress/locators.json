@@ -1,0 +1,73 @@
+{
+
+    "homePage":{
+
+        "contactUs":"#contact-link",
+        "signIn":"#header > div.nav > div > div > nav > div.header_user_info > a",
+        "popularSection":"#home-page-tabs > li.active > a",
+        "bestSellerSection":"#home-page-tabs > li:nth-child(2) > a",
+        "clothesArea":"#center_column",
+        "womenSection":"body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.container div.row div.sf-contener.clearfix.col-lg-12:nth-child(6) ul.sf-menu.clearfix.menu-content.sf-js-enabled.sf-arrows li:nth-child(1) > a.sf-with-ul",
+        "dressesSection":"body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.container div.row div.sf-contener.clearfix.col-lg-12:nth-child(6) ul.sf-menu.clearfix.menu-content.sf-js-enabled.sf-arrows li:nth-child(2) > a.sf-with-ul",
+        "tshirtSection":"body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.container div.row div.sf-contener.clearfix.col-lg-12:nth-child(6) ul.sf-menu.clearfix.menu-content.sf-js-enabled.sf-arrows li:nth-child(3) > a:nth-child(1)"
+
+    },
+
+    "contactUsPage":{
+
+        "homeButton":"#columns > div.breadcrumb.clearfix > a",
+        "subjectHeadingList":"#id_contact",
+        "emailAddressField":"#email",
+        "orderReferenceField":"#id_order",
+        "attachFile":"#uniform-fileUpload",
+        "messageBox":"#message",
+        "submitButton":"#submitMessage"
+
+    },
+
+    "signInPage":{
+
+        "humeButton":"#columns > div.breadcrumb.clearfix > a",
+        "emailCreateAccount":"#email_create",
+        "createAccountButton":"#SubmitCreate",
+        "emailSignIn":"#email",
+        "passwordField":"#passwd",
+        "forgotPassword":"#login_form > div > p.lost_password.form-group > a",
+        "signInButton":"#SubmitLogin",
+        "createAccountForm":"#create-account_form",
+        "logInForm":"#login_form"
+
+    },
+
+    "createAccountPage":{
+
+        "accountCreationForm":"#account-creation_form",
+        "mrRadioButton":"#uniform-id_gender1",
+        "msRadioButton":"#id_gender2",
+        "firstNameField":"#customer_firstname",
+        "lastNameField":"#customer_lastname",
+        "emailField":"#email",
+        "passwordField":"#passwd",
+        "daysDate":"#days",
+        "monthsDate":"#months",
+        "yearsDate":"#years",
+        "newsletterCheckbox":"#newsletter",
+        "specialOfferCheckbox":"#optin",
+        "firstNameAddress":"#firstname",
+        "lastNameAddress":"#lastname",
+        "companyField":"#company",
+        "addressField1":"#address1",
+        "addressFiels2":"#address2",
+        "cityField":"#city",
+        "stateList":"#id_state",
+        "postCodeField":"#postcode",
+        "countryList":"#id_country",
+        "additionaInformationBox":"#other",
+        "homePhoneField":"#phone",
+        "mobilePhoneField":"#phone_mobile",
+        "addressAliasField":"#alias",
+        "registerButton":"#submitAccount"
+
+    }
+
+}
